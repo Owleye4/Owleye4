@@ -3,4 +3,4 @@
 - Currently I’m learning Computer System, Server Mangaement and Environment Configration
    (If I have 48h per day I would learn Algorithm and HPC as well...)
 - Seeking to engage with fellow tech enthusiasts for collboration and idea share. 
-- How to reach me: 1543865090@qq.com
+- How to reach me: 
